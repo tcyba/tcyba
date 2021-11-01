@@ -33,16 +33,16 @@
 <tr>
 <td valign="top" width="50%">
 
-## 文档
+## 现阶段要写的东西
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tcyba&repo=ctf)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tcyba&repo=ctf)](https://github.com/tcyba/ctf)
 
 </td>
 <td valign="top" width="50%">
 
-## 师傅们
+## 好的东西
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tcyba&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tcyba&layout=compact)](https://github.com/tcyba?tab=repositories)
 
 </td>
 </tr>
