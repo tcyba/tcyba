@@ -33,7 +33,7 @@
 
 ### 现阶段要写的东西
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tcyba&repo=ctf)](https://github.com/tcyba/ctf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tcyba&repo=ctf)](https://github.com/tcyba/this_is_my_study)
 
 </td>
 <td valign="top" width="50%">
