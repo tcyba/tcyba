@@ -26,7 +26,7 @@
 
 ## 统计图
 
-![](https://github-readme-stats.vercel.app/api?username=tcyba&show_icons=true&theme=radical)
+[![](https://github-readme-stats.vercel.app/api?username=tcyba&show_icons=true&theme=radical)](https://github.com/tcyba?tab=following)
 
  </td>
 </tr>
